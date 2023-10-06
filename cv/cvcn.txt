@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h1>HOÀNG ĐẠI BẰNG</h1>
+</head>
+<body>
+<form action="">
+    <img src="" alt="">
+    <p>Địa chỉ: 22/6 Nguyễn Vịnh, Thị trấn Sịa, Huyện Quảng Điền, Thừa thiên Huế</p>
+    <p>Sđt: 97227882</p>
+    <label for="">Email:</label>
+    <input type="text" name="email">
+    <p>Trịnh độ: Tốt nghiệp THPT.</p>
+    <p>Bằng cấp: Chứng chỉ tin học.</p>
+    <p>Kĩ năng: Làm việc nhóm.</p>
+    <p>Kinh nghiệm: Từng làm việc 2 năm tại</p>
+    <video src=""></video>
+
+</form>
+
+</body>
+</html>
